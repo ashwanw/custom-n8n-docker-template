@@ -15,10 +15,10 @@ A production-ready Docker setup for self-hosting Customized N8N with custom exte
 
 ## Prerequisites
 
-- **VPS with Ubuntu 22.04+** (tested on Contabo $4.96/month plan)
-- **Domain name** pointing to your VPS IP
-- **Basic command line familiarity**
-- **Git installed** on your VPS
+- VPS with Ubuntu 24.04 (LTS) (tested on Contabo $4.96/month plan)
+- Domain name pointing to your VPS IP
+- Basic command line familiarity
+- Git installed on your VPS
 
 ## Quick Start
 
