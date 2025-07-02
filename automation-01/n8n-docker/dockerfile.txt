@@ -1,0 +1,9 @@
+FROM docker.n8n.io/n8nio/n8n:1.99.1
+
+USER root
+
+# Install custom nodes into /usr/local/lib/n8n-community-nodes
+RUN npm install -g duck-duck-scrape lodash winston \
+    && npm list -g --depth=0
+
+USER node
