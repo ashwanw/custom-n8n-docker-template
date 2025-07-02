@@ -6,12 +6,12 @@ A production-ready Docker setup for self-hosting Customized N8N with custom exte
 
 ## Features
 
-- **Customized N8N Docker image** with pre-installed npm packages (lodash, winston, duck-duck-scrape)
-- **Community nodes** for extended functionality (MCP, text manipulation, PDF generation)
-- **Automatic SSL certificates** via Let's Encrypt and Traefik
-- **PostgreSQL database** for persistent storage
-- **Production-ready configuration** with security headers
-- **Easy deployment** on budget VPS ($5/month)
+- Customized N8N Docker image with pre-installed npm packages (lodash, winston, duck-duck-scrape)
+- Community nodes for extended functionality (MCP, text manipulation, PDF generation)
+- Automatic SSL certificates via Let's Encrypt and Traefik
+- PostgreSQL database for persistent storage
+- Production-ready configuration with security headers
+- Easy deployment on budget VPS ($5/month)
 
 ## Prerequisites
 
