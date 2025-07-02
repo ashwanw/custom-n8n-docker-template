@@ -179,10 +179,13 @@ If you need to start fresh:
 
 ## Resources
 
-- **n8n Documentation:** https://docs.n8n.io/
-- **Community Nodes:** https://www.npmjs.com/search?q=n8n-nodes
-- **Traefik Documentation:** https://doc.traefik.io/traefik/
-- **Budget VPS Provider:** https://contabo.com/en/vps/
+List of N8N Community Nodes:
+
+https://www.npmjs.com/search?q=n8n-nodes
+https://n8engine.com/community-nodes
+https://github.com/restyler/awesome-n8n
+
+Contabo VPS: https://contabo.com/en/vps/
 
 ## Support
 
