@@ -181,9 +181,9 @@ If you need to start fresh:
 
 List of N8N Community Nodes:
 
-https://www.npmjs.com/search?q=n8n-nodes
-https://n8engine.com/community-nodes
-https://github.com/restyler/awesome-n8n
+- https://www.npmjs.com/search?q=n8n-nodes
+- https://n8engine.com/community-nodes
+- https://github.com/restyler/awesome-n8n
 
 Contabo VPS: https://contabo.com/en/vps/
 
